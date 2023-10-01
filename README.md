@@ -9,8 +9,8 @@ Project with hexagonal architecture, Value Objects, Unit test and Integration Te
 ## Download project
 
 ```
-git clone https://github.com/leobetancur/hexagonal.git
-cd hexagonal
+git clone https://github.com/leobetancur/between.git
+cd between
 ```
 
 ## Run project
